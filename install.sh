@@ -45,6 +45,3 @@ fi
 chmod +x "$install_path/$slacktee_script"
 
 echo $message
-
-# Execute slacktee.sh with --setup option
-"$install_path/$slacktee_script" --setup
